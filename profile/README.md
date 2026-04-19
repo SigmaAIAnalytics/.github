@@ -19,19 +19,6 @@ We work with consumer finance, retail, and consumer goods businesses to diagnose
 
 ---
 
-## How we work
-
-**Diagnose & Frame**
-We work closely with leadership, business, and stakeholder teams to understand the true shape of a problem — not just its symptoms. We frame the right questions and align every solution to measurable business goals before writing a single line of code.
-
-**Design & Build**
-With a clear understanding of constraints and pain-points, we design AI-aided custom models, validate hypotheses, and build intelligent dashboards that transform raw data into actionable insight.
-
-**Deploy & Embed**
-We go beyond proof-of-concept. We deploy solutions into live business workflows, support adoption across teams, and monitor performance — so analytics delivers ongoing value, not just a one-time deliverable.
-
----
-
 ## What's in this org
 
 This GitHub organization hosts the tools, apps, and internal projects built by the Sigma AI team. Projects here reflect our AI-first approach in practice — from RAG-based document intelligence tools to interactive analytics dashboards, all built with modern AI tooling and deployed to production.
