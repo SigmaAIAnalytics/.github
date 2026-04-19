@@ -62,7 +62,7 @@ This GitHub organization hosts the tools, apps, and internal projects built by t
 
 ## Services
 
-- **AI Automation** — LLM-powered agents for text and voice workflows
+- **AI Automation** — LLM-powered automation for data, text and voice
 - **Data Science** — custom models, hypothesis generation, statistical analysis
 - **Analytics Engineering** — dashboards, data pipelines, and decision-support tools
 
