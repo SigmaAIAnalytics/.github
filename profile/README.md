@@ -73,11 +73,9 @@ We're a boutique team of experts and independent thinkers — no full hierarchie
 
 | | |
 |---|---|
-| **Michael Payne** · [LinkedIn](https://www.linkedin.com/in/mxp2020/) | Co-founder |
-| **Adrian Kingwell** · [LinkedIn](https://www.linkedin.com/in/adriankingwell/) | Co-founder |
-| **Sagar Kalyankar** · [LinkedIn](https://www.linkedin.com/in/sagar-kalyankar/) | Team |
-
-[Meet the full team →](https://sigmaaianalytics.com/about-us/)
+| **Sagar Kalyankar** · [LinkedIn](https://www.linkedin.com/in/sagar-kalyankar/) | 
+| **Rahul Saddy** · [LinkedIn](https://www.linkedin.com/in/rahulsaddy/) | 
+| **Shubhi Vashistha** · [LinkedIn](https://www.linkedin.com/in/shubhi-vashistha-563285186/) | 
 
 ---
 
