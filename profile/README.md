@@ -39,8 +39,8 @@ This GitHub organization hosts the tools, apps, and internal projects built by t
 | Project | Description |
 |---|---|
 | `purpose-marketing-dashboard` | Visualizations for a client's Marketing spend and application data |
-| `purpose-MLOps` | ML Pipeline developed to support Marketing Mix forecasting models for a client |
-| `Document-Query-Tool` | A RAG based implementation to help a client's SEC reporting team manage filing document quality and data integrity |
+| `purpose-MLOps`               | ML Pipeline developed to support Marketing Mix forecasting models for a client |
+| `Document-Query-Tool`         | A RAG based implementation to help a client's SEC reporting team manage filing document quality and data integrity |
 
 ---
 
