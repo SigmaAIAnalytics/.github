@@ -44,30 +44,6 @@ This GitHub organization hosts the tools, apps, and internal projects built by t
 
 ---
 
-## Our approach in three words
-
-- **Customized** - No off-the-shelf templates. Every engagement is scoped and built for your specific context.
-- **Outcome-focused** - We measure success by business impact, not billable hours.
-- **Affordable** - Leaner AI-first teams mean lower overhead — and we pass that on.
-
----
-
-## Industries we serve
-
-- **Consumer Finance** — credit, lending, and financial product analytics
-- **Consumer Retail** — demand forecasting, customer segmentation, campaign performance
-- **Consumer Packaged Goods** — trade spend optimization, portfolio analytics
-
----
-
-## Services
-
-- **AI Automation** — LLM-powered automation for data, text and voice
-- **Data Science** — custom models, hypothesis generation, statistical analysis
-- **Analytics Engineering** — dashboards, data pipelines, and decision-support tools
-
----
-
 ## Get in touch
 
 Exploring an engagement or want to learn more?
