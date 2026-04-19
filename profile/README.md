@@ -74,9 +74,9 @@ We're a boutique team of experts and independent thinkers — no full hierarchie
 
 | | |
 |---|---|
-| **Sagar Kalyankar** - [LinkedIn](https://www.linkedin.com/in/sagar-kalyankar/) |
-| **Rahul Saddy** - [LinkedIn](https://www.linkedin.com/in/rahulsaddy/) |
-| **Shubhi Vashistha** - [LinkedIn](https://www.linkedin.com/in/shubhi-vashistha-563285186/) |
+| **Sagar Kalyankar** | [LinkedIn](https://www.linkedin.com/in/sagar-kalyankar/) 
+| **Rahul Saddy** | [LinkedIn](https://www.linkedin.com/in/rahulsaddy/) 
+| **Shubhi Vashistha** | [LinkedIn](https://www.linkedin.com/in/shubhi-vashistha-563285186/) 
 
 ---
 
