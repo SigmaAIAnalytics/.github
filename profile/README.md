@@ -72,11 +72,10 @@ This GitHub organization hosts the tools, apps, and internal projects built by t
 
 We're a boutique team of experts and independent thinkers — no full hierarchies, no bloated delivery models.
 
-| | |
-|---|---|
-| **Sagar Kalyankar** · [LinkedIn](https://www.linkedin.com/in/sagar-kalyankar/) | 
-| **Rahul Saddy** · [LinkedIn](https://www.linkedin.com/in/rahulsaddy/) | 
-| **Shubhi Vashistha** · [LinkedIn](https://www.linkedin.com/in/shubhi-vashistha-563285186/) | 
+| |
+| **Sagar Kalyankar** · [LinkedIn](https://www.linkedin.com/in/sagar-kalyankar/) 
+| **Rahul Saddy** · [LinkedIn](https://www.linkedin.com/in/rahulsaddy/) 
+| **Shubhi Vashistha** · [LinkedIn](https://www.linkedin.com/in/shubhi-vashistha-563285186/) 
 
 ---
 
