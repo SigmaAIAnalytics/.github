@@ -46,14 +46,9 @@ This GitHub organization hosts the tools, apps, and internal projects built by t
 
 ## Our approach in three words
 
-**Customized**
-No off-the-shelf templates. Every engagement is scoped and built for your specific context.
-
-**Outcome-focused**
-We measure success by business impact, not billable hours.
-
-**Affordable**
-Leaner AI-first teams mean lower overhead — and we pass that on.
+- **Customized** - No off-the-shelf templates. Every engagement is scoped and built for your specific context.
+- **Outcome-focused** - We measure success by business impact, not billable hours.
+- **Affordable** - Leaner AI-first teams mean lower overhead — and we pass that on.
 
 ---
 
